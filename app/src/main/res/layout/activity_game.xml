@@ -19,7 +19,7 @@
         android:textColor="@android:color/white"
         android:padding="12dp"/>
 
-    <!-- TODO 4: Create EditText for user input -->
+    <!-- TODO 5: Create EditText for user input -->
 
     <Button
         android:id="@+id/btnSubmitGuess"
@@ -51,3 +51,4 @@
         android:textSize="16sp"
         android:layout_marginTop="8dp"/>
 </LinearLayout>
+
